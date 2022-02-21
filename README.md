@@ -1,7 +1,7 @@
 
 <h1>Welcome to my GitHub!</h1>
 
-<h2>About me</h2>
+<h2>About me ☕</h2>
 <p>University of Delaware 2024</p>
 <p>Honors Computer Science, Cybersecurity Scholar</p>
 
