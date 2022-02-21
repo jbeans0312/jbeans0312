@@ -5,7 +5,7 @@
 <p>University of Delaware 2024</p>
 <p>Honors Computer Science, Cybersecurity Scholar</p>
 
-<h2>What I'm working on</h2>
+<h2>What I'm working on 🍵</h2>
 <ul>
   <li>Intro to Software Engineer at UD</li>
   <li>Developing a VR tool for use in air traffic control as 
@@ -14,7 +14,7 @@
   <li>Playing way too many video games</li>
 </ul>
 
-<h2>Reach me on my socials!</h2>
+<h2>Reach me on my socials 🫖</h2>
 <ul>
   <li>Follow me on Instagram @_johnbean</li>
   <li>Message me on discord @pooly#0001</li>
