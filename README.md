@@ -8,7 +8,7 @@
 <ul>
   <li>Intro to Software Engineer at UD</li>
   <li>Developing a VR tool for use in air traffic control as 
-    part of the UD Cybersecurity scholars VIP VR team</li>
+    part of the UD Cybersecurity Scholars VIP VR team</li>
   <li>Helping to teach coding to the next generation of programmers</li>
   <li>Playing way too many video games</li>
 </ul>
