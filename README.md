@@ -12,7 +12,7 @@
   <li>Helping to teach coding to the next generation of programmers</li>
   <li>Playing way too many video games</li>
   
-<h3>Reach me on my socials!</h3>
+<h2>Reach me on my socials!</h2>
 <ul>
   <li>Follow me on Instagram @_johnbean</li>
   <li>Message me on discord @pooly#0001</li>
