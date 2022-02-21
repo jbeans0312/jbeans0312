@@ -1,16 +1,18 @@
-### Hi there 👋
 
-<!--
-**jbeans0312/jbeans0312** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1>John Bean</h1>
 
-Here are some ideas to get you started:
+<p>University of Delaware 2024</p>
+<p>Honors Computer Science, Cybersecurity Scholar</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<ul>
+  <li>Follow me on Instagram @_johnbean</li>
+  <li>Follow me on Twitter @johnb_ean</li>
+  <li>Message me on discord @pooly#0001</li>
+  <li>Friend me on steam @pooly</li>
+  <li>Email me for any other questions jbeans@udel.edu</li>
+</ul>
+
+<p>You're the best! Have a good one : )</p>
+<p>last updated 02/14/2002</p>
+
