@@ -11,7 +11,8 @@
     part of the UD Cybersecurity scholars VIP VR team</li>
   <li>Helping to teach coding to the next generation of programmers</li>
   <li>Playing way too many video games</li>
-  
+</ul>
+
 <h2>Reach me on my socials!</h2>
 <ul>
   <li>Follow me on Instagram @_johnbean</li>
