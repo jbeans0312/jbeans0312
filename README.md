@@ -2,8 +2,8 @@
 <h1>Welcome to my GitHub!</h1>
 
 <h2>About me ☕</h2>
-<p>University of Delaware 2024</p>
-<p>Honors Computer Science, Cybersecurity Scholar</p>
+<p>I'm currently a sophomore at the University of Delaware studying computer science and Chinese history. Currently learning about web development with Git and TypeScript.</p>
+<p>I have written in Python, C, C++, and Java. I'm learning R and TypeScript right now!</p>
 
 <h2>What I'm working on 🍵</h2>
 <ul>
