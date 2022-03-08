@@ -9,7 +9,7 @@
 <ul>
   <li>Intro to Software Engineering at UD</li>
   <li>Developing a VR tool for use in air traffic control as 
-    part of the UD Cybersecurity Scholars VIP VR team</li>
+    part of the UD VIP VR team</li>
   <li>Helping to teach coding to the next generation of programmers</li>
   <li>Playing way too many video games</li>
 </ul>
@@ -22,5 +22,5 @@
 </ul>
 
 <p>You're the best! Have a good one : )</p>
-<p>last updated 02/21/2022</p>
+<p>last updated 03/8/2022</p>
 
