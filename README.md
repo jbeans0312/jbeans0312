@@ -2,16 +2,16 @@
 <h1>Welcome to my GitHub!</h1>
 
 <h2>About me ☕</h2>
-<p>I'm currently a sophomore at the University of Delaware studying computer science and Chinese history. Currently learning about web development with Git and TypeScript.</p>
-<p>I have written in Python, C, C++, and Java. I'm learning R and TypeScript right now!</p>
+<p>I'm currently a Junior at the University of Delaware and studying Computer Science B)</p>
+<p>Python, C, C++, Java, R, and TypeScript</p>
 
 <h2>What I'm working on 🍵</h2>
 <ul>
-  <li>Intro to Software Engineering at UD</li>
+  <li>Operating Systems, Algorithims at UD</li>
   <li>Developing a VR tool for use in air traffic control as 
     part of the UD VIP VR team</li>
   <li>Helping to teach coding to the next generation of programmers</li>
-  <li>Playing way too many video games</li>
+  <li>Map suggestion tool and profile block creator for osu!</li>
 </ul>
 
 <h2>Reach me on my socials 🫖</h2>
@@ -22,5 +22,5 @@
 </ul>
 
 <p>You're the best! Have a good one : )</p>
-<p>last updated 03/8/2022</p>
+<p>last updated 09/19/2022</p>
 
