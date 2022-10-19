@@ -15,6 +15,7 @@
 <h2>To do list 🧉</h2>
 <ul>
  <li>Map suggestion tool and profile block creator for osu!</li>
+ <li>Rasberry Pi weather based room environment</li>
 </ul>
 
 <h2>Reach me on my socials 🫖</h2>
