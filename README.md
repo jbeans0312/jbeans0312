@@ -10,8 +10,11 @@
   <li>Operating Systems, Algorithims at UD</li>
   <li>Developing a VR tool for use in air traffic control as 
     part of the UD VIP VR team</li>
-  <li>Helping to teach coding to the next generation of programmers</li>
-  <li>Map suggestion tool and profile block creator for osu!</li>
+</ul>
+
+<h2>To do list 🧉</h2>
+<ul>
+ <li>Map suggestion tool and profile block creator for osu!</li>
 </ul>
 
 <h2>Reach me on my socials 🫖</h2>
