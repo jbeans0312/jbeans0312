@@ -8,7 +8,7 @@
 <h2>What I'm working on 🍵</h2>
 <ul>
   <li>Databases, Machine Learning, Parallel Computing, and Automata Theory at UD</li>
-  <li>Working on my personal ReactTS website/li>
+  <li>Working on my personal ReactTS website</li>
 </ul>
 
 <h2>To do list 🧉</h2>
