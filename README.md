@@ -7,9 +7,8 @@
 
 <h2>What I'm working on 🍵</h2>
 <ul>
-  <li>Operating Systems, Algorithims at UD</li>
-  <li>Developing a VR tool for use in air traffic control as 
-    part of the UD VIP VR team</li>
+  <li>Databases, Machine Learning, Parallel Computing, and Automata Theory at UD</li>
+  <li>Working on my personal ReactTS website/li>
 </ul>
 
 <h2>To do list 🧉</h2>
@@ -26,5 +25,5 @@
 </ul>
 
 <p>You're the best! Have a good one : )</p>
-<p>last updated 10/19/2022</p>
+<p>last updated 12/19/2022</p>
 
