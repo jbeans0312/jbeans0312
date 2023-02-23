@@ -13,8 +13,9 @@
 
 <h2>To do list 🧉</h2>
 <ul>
- <li>Map suggestion tool and profile block creator for osu!</li>
- <li>Rasberry Pi weather based room environment</li>
+  <li>
+    Serial Port Monitor
+  </li>
 </ul>
 
 <h2>Reach me on my socials 🫖</h2>
@@ -25,5 +26,5 @@
 </ul>
 
 <p>You're the best! Have a good one : )</p>
-<p>last updated 12/19/2022</p>
+<p>last updated 02/23/2023</p>
 
