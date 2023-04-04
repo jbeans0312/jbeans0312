@@ -8,13 +8,16 @@
 <h2>What I'm working on 🍵</h2>
 <ul>
   <li>Databases, Machine Learning, Parallel Computing, and Automata Theory at UD</li>
-  <li>Working on my personal ReactTS website</li>
+  <li>Working on Beholder web app for DnD</li>
 </ul>
 
 <h2>To do list 🧉</h2>
 <ul>
   <li>
     Serial Port Monitor
+  </li>
+  <li>
+    Looking for internship
   </li>
 </ul>
 
@@ -26,5 +29,5 @@
 </ul>
 
 <p>You're the best! Have a good one : )</p>
-<p>last updated 02/23/2023</p>
+<p>last updated 04/04/2023</p>
 
