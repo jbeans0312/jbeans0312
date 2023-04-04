@@ -8,7 +8,7 @@
 <h2>What I'm working on 🍵</h2>
 <ul>
   <li>Databases, Machine Learning, Parallel Computing, and Automata Theory at UD</li>
-  <li>Working on Beholder web app for DnD</li>
+  <li>Beholder web app for DnD</li>
 </ul>
 
 <h2>To do list 🧉</h2>
