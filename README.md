@@ -14,7 +14,7 @@
 <h2>To do list 🧉</h2>
 <ul>
   <li>
-    Serial Port Monitor
+    Update Serial Port Monitor
   </li>
   <li>
     Looking for internship
