@@ -9,16 +9,7 @@
 <ul>
   <li>Databases, Machine Learning, Parallel Computing, and Automata Theory at UD</li>
   <li>Beholder web app for DnD</li>
-</ul>
-
-<h2>To do list 🧉</h2>
-<ul>
-  <li>
-    Update Serial Port Monitor
-  </li>
-  <li>
-    Looking for internship
-  </li>
+  <li>Machine Learning Research @ UD</li>
 </ul>
 
 <h2>Reach me on my socials 🫖</h2>
@@ -29,5 +20,5 @@
 </ul>
 
 <p>You're the best! Have a good one : )</p>
-<p>last updated 04/04/2023</p>
+<p>last updated 05/02/2023</p>
 
