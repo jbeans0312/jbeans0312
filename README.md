@@ -9,8 +9,7 @@
 <h2>What I'm working on 🍵</h2>
 <ul>
   <li>Databases, Machine Learning, Parallel Computing, and Automata Theory at UD</li>
-  <li>Beholder web app for DnD</li>
-  <li>Machine Learning Research @ UD</li>
+  <li>Spotify song recommender</li>
 </ul>
 
 <h2>Reach me on my socials 🫖</h2>
