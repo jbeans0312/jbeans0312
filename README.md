@@ -2,7 +2,8 @@
 <h1>Welcome to my GitHub!</h1>
 
 <h2>About me ☕</h2>
-<p>I'm currently a Junior at the University of Delaware and studying Computer Science B)</p>
+<p>I'm currently a Junior at the University of Delaware and studying Computer Science with a concentration in Data Science B)</p>
+<p>This summer I'll be taking part in research focused on machine learning and 3D reconstruction of cell structure</p>
 <p>Python, C, C++, Java, R, and TypeScript</p>
 
 <h2>What I'm working on 🍵</h2>
