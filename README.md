@@ -15,10 +15,10 @@
 <h2>Reach me on my socials 🫖</h2>
 <ul>
   <li>Follow me on Instagram @_johnbean</li>
-  <li>Message me on discord @pooly#0429</li>
+  <li>Message me on discord @pooly</li>
   <li>Email me for any other questions jbeans@udel.edu</li>
 </ul>
 
 <p>You're the best! Have a good one : )</p>
-<p>last updated 06/5/2023</p>
+<p><strong>last updated 06/12/2023</strong></p>
 
