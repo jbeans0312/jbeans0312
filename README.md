@@ -8,8 +8,8 @@
 
 <h2>What I'm working on 🍵</h2>
 <ul>
-  <li>Databases, Machine Learning, Parallel Computing, and Automata Theory at UD</li>
-  <li>Spotify song recommender</li>
+  <li>Machine learning research at UD</li>
+  <li>Learning about Convulution neural networks</li>
 </ul>
 
 <h2>Reach me on my socials 🫖</h2>
