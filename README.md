@@ -8,8 +8,8 @@
 
 <h2>What I'm working on 🍵</h2>
 <ul>
-  <li>Machine learning research at UD</li>
-  <li>Learning about convolutional neural networks & computer vision</li>
+  <li>Biomedical image segmentation pipeline</li>
+  <li>Applying for jobs :3</li>
 </ul>
 
 <h2>Reach me on my socials 🫖</h2>
