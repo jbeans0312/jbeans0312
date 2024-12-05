@@ -9,7 +9,7 @@
 <h2>What I'm working on 🍵</h2>
 <ul>
   <li>Designing new site to host ttrpg content</li>
-  <li>Learning how to use this Rasberry Pi I've had in a drawer for 4 years<</li>
+  <li>Learning how to use this Rasberry Pi I've had in a drawer for 4 years</li>
 </ul>
 
 <h2>Reach me on my socials 🫖</h2>
