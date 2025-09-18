@@ -1,2 +1,2 @@
-<a href="www.schistostega.com">blog</a>
+<a href="https://www.schistostega.com">blog</a>
 
